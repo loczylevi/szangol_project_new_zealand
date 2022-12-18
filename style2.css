@@ -6,11 +6,11 @@
 
 
 .kontener69{
-                    border: 2px solid white;
-                    border-top: 10px solid rgb(255, 255, 255);
-                    border-right: 4px solid white;
+                    border: 2px solid #ffff00;
+                    border-top: 10px solid #ffff00;
+                    border-right: 4px solid #ffff00;
                     /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
-                    background-image: linear-gradient(to bottom left, #80000d, mediumblue);
+                    background-color: black;
                     /*background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));*/
                     border-radius: 25px;
 
@@ -27,63 +27,63 @@
 }
 */
 .kontener{
-                    border: 2px solid white;
-                    border-top: 10px solid rgb(255, 255, 255);
-                    border-left: 4px solid white;
+                    border: 2px solid #ffff00;
+                    border-top: 10px solid #ffff00;
+                    border-left: 4px solid #ffff00;
                     /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
-                    background-image: linear-gradient(to bottom right, #80000d, mediumblue);
+                    background-color: black;
                     /*background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));*/
                     border-radius: 25px;
                     
 
                 }
 .kontener2{
-                    border: 2px solid white;
-                    border-right: 4px solid white;
+                    border: 2px solid #ffff00;
+                    border-right: 4px solid #ffff00;
                     /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
-                    background-image: linear-gradient(to top right, #80000d, mediumblue);
+                    background-color: black;
                     /*background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));*/
                     border-radius: 25px;
                     
 
                 }
 .kontener3{
-                    border: 2px solid white;
-                    border-bottom: 10px solid rgb(255, 255, 255);
-                    border-left: 4px solid white;
+                    border: 2px solid #ffff00;
+                    border-bottom: 10px solid #ffff00;
+                    border-left: 4px solid #ffff00;
                     /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
-                    background-image: linear-gradient(to top right, #80000d, mediumblue);
+                    background-color: black;
                     /*background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));*/
                     border-radius: 25px;
                     
 
                 }
 .kontener4{
-                    border: 2px solid white;
-                    border-bottom: 10px solid rgb(255, 255, 255);
-                    border-right: 4px solid white;
+                    border: 2px solid #ffff00;
+                    border-bottom: 10px solid #ffff00;
+                    border-right: 4px solid #ffff00;
                     /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
-                    background-image: linear-gradient(to top left, #80000d, mediumblue);
+                    background-color: black;
                     /*background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));*/
                     border-radius: 25px;
                     
 
                 }
 .kontener5{
-                    border: 2px solid white;
-                    border-right: 4px solid white;
+                    border: 2px solid #ffff00;
+                    border-right: 4px solid #ffff00;
                     /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
-                    background-image: linear-gradient(to left, #80000d, mediumblue);
+                    background-color: black;
                     /*background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));*/
                     border-radius: 25px;
                     
 
                 }
 .kontener6{
-                    border: 2px solid white;
-                    border-left: 4px solid white;
+                    border: 2px solid #ffff00;
+                    border-left: 4px solid #ffff00;
                     /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
-                    background-image: linear-gradient(to right, #80000d, mediumblue);
+                     background-color: black; 
                     /*background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));*/
                     border-radius: 25px;
                     
@@ -104,11 +104,11 @@
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 60px;
-    color: yellow;
-    -moz-text-fill-color: white;
- -webkit-text-fill-color:white ;
-    -moz-text-stroke-color: #d6d1d1;
- -webkit-text-stroke-color: #d6d1d1;
+    color: #ffff00;
+    -moz-text-fill-color: #ffff00;
+ -webkit-text-fill-color:#ffff00 ;
+    -moz-text-stroke-color: #ffff00;
+ -webkit-text-stroke-color: #ffff00;
     -moz-text-stroke-width: 1px;  
  -webkit-text-stroke-width: 1px;
   
@@ -118,7 +118,7 @@
 .szoveg{
    /*text-align: center;*/
    font-size: 25px;
-   color: white;
+   color: #ffff00;
    font-weight: bold;
    font-family: 'Times New Roman', Times, serif;
 
@@ -134,11 +134,11 @@
 #feher_szoveg{
    font-family: 'Times New Roman', Times, serif;
    font-size: 40px;
-   color: white;
-   -moz-text-fill-color: white;
--webkit-text-fill-color:white ;
-   -moz-text-stroke-color: black;
--webkit-text-stroke-color: black;
+   color: #ffff00;
+   -moz-text-fill-color: #ffff00;
+-webkit-text-fill-color:#ffff00 ;
+   -moz-text-stroke-color: #ffff00;
+-webkit-text-stroke-color: #ffff00;
    -moz-text-stroke-width: 1px;  
 -webkit-text-stroke-width: 1px;
 
@@ -179,13 +179,13 @@
    transform: scale(1.2);
 }
 .feher{
-   color: white;
+   color: #ffff00;
    font-size: 20px;
    font-weight: normal;
 }
 .cicoma{
   border-radius: 5px;
-  border: 2px solid white;
+  border: 2px solid #ffff00;
 }
 
 /*-_______________________________________________________________________-*/
@@ -267,7 +267,7 @@
  
  .close:hover,
  .close:focus {
-   color: red;
+   color: #ffff00;
    text-decoration: none;
    cursor: pointer;
  }
@@ -281,20 +281,6 @@
 .sorkizatz {
    text-align: justify;
   text-justify: inter-word;
-}
-
-
-
-.igazitas{
-   width:50px;
-   height:50px;
-   border: 3px ridge black;
-   border-radius: 25px;
-   transition: transform  0.3s;
-}
-.igazitas:hover {
-   transform: scale(1.2);
-   cursor: pointer;   
 }
 
 header {
@@ -320,47 +306,52 @@ html {
 
 /* fix fisz fejléc mindig egyhelybe van ---_ eleje */
 
-.igazitas{
+.akadaly{
     width:50px;
     height:50px;
-    border: 6px ridge #80002d;
-    border-radius: 5px;
-    float:right;
-    transition: transform  0.3s;
-    z-index: 950;
-    margin: 0 5px;
-}
-.igazitas2{
-    width:50px;
-    height:50px;
-    border: 6px ridge #80002d;
+    border: 3px ridge black;
     border-radius: 30px;
     float:right;
     transition: transform  0.3s;
     z-index: 950;
     margin: 0 5px;
+  background-color: #ffff00;
+
 }
 
+.akadaly:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    filter: invert(100%);
+  background-color: white;
+
+}
 
 .igazitas_klanunkrol{
     width:50px;
     height:50px;
-    border: 3px ridge mediumblue;
+    border: 3px ridge black;
     border-radius: 25px;
 }
+
+
+.igazitas{
+    width:50px;
+    height:50px;
+    /*border: 6px ridge #ffff00;*/
+    border-radius: 5px;
+    float:right;
+    transition: transform  0.3s;
+    z-index: 950;
+    margin: 0 5px;
+    
+}
+
 .igazitas:hover{
     transform: scale(1.2);
     cursor: pointer;
     filter: invert(100%);
-    background-color: cyan;
-    
-    
-}
-.igazitas2:hover{
-    transform: scale(1.2);
-    cursor: pointer;
-    filter: invert(100%);
-    background-color: cyan;
+  background-color: black;
     
     
 }
@@ -423,8 +414,8 @@ header{
     position: fixed;
     /*border: 4px solid green;*/
     /*border-top: 4px solid darkgreen;*/
-    background-color: #060533;
-    border-bottom: 3px ridge #80002d;
+    background-color: black;
+    border-bottom: 3px ridge #ffff00;
 }
 
 
@@ -434,19 +425,20 @@ header{
     left: 10px;
     border: none;
     outline: none;
-    background-color: mediumblue;
-    color: white;
+    background-color: #ffff00;
+    color: black;
     cursor: pointer;
     padding: 10px;
     border-radius: 10px; 
     transition: transform  0.3s;
-    top:93%;
+    top:90%;
 }
 
   #felGomb:hover {
-    background-color: cyan;
-    color: black;
+    background-color: black;
+    color: white;
     transform: scale(1.2);
+    border: 3px solid #ffff00;
     
 }
 
