@@ -91,7 +91,7 @@
    background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(0,65,0,1));
    background-image: linear-gradient(to bottom right, rgb(255, 255, 255), rgba(107,107,107,0));
    color: black;
-   
+   7a00b3
    border-radius: 25px;
 }
 */
@@ -102,11 +102,11 @@
     color: yellow;
     -moz-text-fill-color: white;
  -webkit-text-fill-color:white ;
-    -moz-text-stroke-color: #7a00b3;
- -webkit-text-stroke-color: #7a00b3;
+    -moz-text-stroke-color: #d6d1d1;
+ -webkit-text-stroke-color: #d6d1d1;
     -moz-text-stroke-width: 1px;  
  -webkit-text-stroke-width: 1px;
-    
+  
 
 }
 
